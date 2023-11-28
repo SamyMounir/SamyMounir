@@ -20,7 +20,7 @@
 
 * **[Linear and Quadratic Optimization of Heat Pump Usage in a Building](link):**
     * Addressed a multifaceted optimization problem with various constraints (linear or not) and diverse objectives using Python. Beyond programming the solution, we also engaged in mathematical modeling and analysis.
-* **[Statistical Analysis & Forecasting of Solar Electricity Production ](link):** 
+* **[Statistical Analysis & Forecasting of Solar Electricity Production ](https://github.com/SamyMounir/Statistical-Analysis-Forecasting-of-Solar-Electricity-Production-):** 
     * Applied data visualization, statistical methods, and hypothesis testing for solar electricity production analysis in Caen and Tours, featuring concise monthly statistics and an accurate autoregressive forecasting model assessment.
 * **[From Python to a C Implementation of the Bellman-Ford Algorithm](link):** Project 3
     * Implemented a multi-threaded Bellman-Ford algorithm in C surpassing a Python counterpart with notable reductions in execution time and energy consumption. Conducted unit tests, employed Valgrind and Cppcheck for refinement. Collaborated using GitLab, and developed a comprehensive Makefile. Produced a concise yet comprehensive report detailing the project.
