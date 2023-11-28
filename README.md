@@ -18,7 +18,7 @@
 <h3 align="left">My Projects:</h3>
 
 
-* **[Linear and Quadratic Optimization of Heat Pump Usage in a Building](link):**
+* **[Linear and Quadratic Optimization of Heat Pump Usage in a Building](https://github.com/SamyMounir/Linear-and-Quadratic-Optimization-of-Heat-Pump-Usage-in-a-Building-):**
     * Addressed a multifaceted optimization problem with various constraints (linear or not) and diverse objectives using Python. Beyond programming the solution, we also engaged in mathematical modeling and analysis.
 * **[Statistical Analysis & Forecasting of Solar Electricity Production ](https://github.com/SamyMounir/Statistical-Analysis-Forecasting-of-Solar-Electricity-Production-):** 
     * Applied data visualization, statistical methods, and hypothesis testing for solar electricity production analysis in Caen and Tours, featuring concise monthly statistics and an accurate autoregressive forecasting model assessment.
