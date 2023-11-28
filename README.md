@@ -12,7 +12,7 @@
 
 - 📫 You can reach to me by my email: Samy.Mounir01@gmail.com or directly on [LinkedIn](https://linkedin.com/in/samy-mounir)
 
-- 📄 Know about my experiences [CV](linkgoogledrive)
+- 📄 If you want to know more about my experiences don't hesitate to check my [CV](https://drive.google.com/file/d/1vZFu6_Pi4tuoT-MsObvjShwS0ZxDpjBg/view?usp=sharing)
 
 
 <h3 align="left">My Projects:</h3>
